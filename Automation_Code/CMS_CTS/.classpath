@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/Jar_Files/apiguardian-api-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/Jar_Files/commons-io-2.15.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/Jar_Files/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/Jar_Files/fontbox-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/Jar_Files/jai-imageio-core-1.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/Jar_Files/jbig2-imageio-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/Jar_Files/jboss-logging-3.1.4.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/Jar_Files/jboss-vfs-3.2.17.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/Jar_Files/jna-5.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/Jar_Files/junit-jupiter-5.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/Jar_Files/junit-jupiter-api-5.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/Jar_Files/junit-jupiter-engine-5.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/Jar_Files/junit-jupiter-params-5.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/Jar_Files/junit-platform-commons-1.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/Jar_Files/junit-platform-engine-1.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/Jar_Files/lept4j-1.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/Jar_Files/opentest4j-1.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/Jar_Files/pdfbox-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/Jar_Files/pdfbox-debugger-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/Jar_Files/pdfbox-io-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/Jar_Files/pdfbox-tools-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/Jar_Files/picocli-4.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/Jar_Files/slf4j-api-2.0.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/Jar_Files/tess4j-5.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/New folder/aocr.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
